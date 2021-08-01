@@ -116,7 +116,8 @@ img {
 /* Media Queries */
 @media (min-width: 1440px) {
   body {
-    background: url("images/bg-pattern-top.svg") no-repeat left top -550px,
-      url("images/bg-pattern-bottom.svg") no-repeat right bottom -550px hsl(185, 75%, 39%);
+    background: url("images/bg-pattern-top.svg") no-repeat left -220px top -550px,
+      url("images/bg-pattern-bottom.svg") no-repeat right -200px bottom -620px
+        hsl(185, 75%, 39%);
   }
 }
