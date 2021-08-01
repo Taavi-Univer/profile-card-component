@@ -9,8 +9,8 @@
 body {
   width: 100vw;
   height: 100vh;
-  background: url("images/bg-pattern-top.svg") no-repeat left -660px top -550px,
-    url("images/bg-pattern-bottom.svg") no-repeat right -660px bottom -550px
+  background: url("images/bg-pattern-top.svg") no-repeat left -760px top -550px,
+    url("images/bg-pattern-bottom.svg") no-repeat right -660px bottom -650px
       hsl(185, 75%, 39%);
   font-family: "Kumbh Sans", sans-serif;
   font-size: 18px;
