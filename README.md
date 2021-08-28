@@ -31,8 +31,8 @@ Mobile view:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profilecardcomponent-PzmLVUimT)
-- Live Site URL: [Add live site URL here](https://co555.github.io/profile-card-component/)
+- Solution URL: (https://www.frontendmentor.io/solutions/profilecardcomponent-PzmLVUimT)
+- Live Site URL: (https://co555.github.io/profile-card-component/)
 
 ## My process
 
