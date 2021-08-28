@@ -43,5 +43,5 @@ Mobile view:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - https://github.com/co555?tab=repositories
+- Frontend Mentor - https://www.frontendmentor.io/profile/co555
