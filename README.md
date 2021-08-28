@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 Desktop view:
-![](./images/co555-profile-card-component-desktop.png))
+![](./images/co555-profile-card-component-desktop.png)
 Mobile view:
 ![](./images/co555-profile-card-component-mobile.png)
 
