@@ -31,15 +31,13 @@ Mobile view:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profilecardcomponent-PzmLVUimT)
+- Live Site URL: [Add live site URL here](https://co555.github.io/profile-card-component/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
