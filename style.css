@@ -65,8 +65,17 @@ img {
   margin-bottom: -49px;
 }
 
+.about {
+  height: 40%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
 .author {
-  margin-top: 2em;
+  margin-top: 3em;
 }
 
 .year {
@@ -74,14 +83,9 @@ img {
 }
 
 .city {
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: hsl(227, 10%, 46%);
   margin-top: 1rem;
-}
-
-.main {
-  height: 40%;
-  width: 100%;
 }
 
 .statistics {
