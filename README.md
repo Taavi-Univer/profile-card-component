@@ -5,7 +5,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 Mobile view:
-![](./design/taavi-univer_profile-card-component_mobile.png)
+![](./design/taavi-univer.github.io_profile-card-component_mobile.png)
 
 ### Links
 
