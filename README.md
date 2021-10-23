@@ -13,7 +13,7 @@ Desktop view:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/profilecardcomponent-PzmLVUimT
-- Live Site URL: https://co555.github.io/profile-card-component/
+- Live Site URL: https://taavi-univer.github.io/profile-card-component/
 
 ## My process
 
@@ -24,5 +24,5 @@ Desktop view:
 
 ## Author
 
-- Website - https://github.com/co555?tab=repositories
-- Frontend Mentor - https://www.frontendmentor.io/profile/co555
+- Website - https://github.com/Taavi-Univer?tab=repositories
+- Frontend Mentor - https://www.frontendmentor.io/profile/Taavi-Univer
