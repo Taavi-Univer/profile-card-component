@@ -10,7 +10,7 @@ Mobile view:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/profilecardcomponent-PzmLVUimT
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-component-r30VA3iqm
 - Live Site URL: https://taavi-univer.github.io/profile-card-component/
 
 ## My process
